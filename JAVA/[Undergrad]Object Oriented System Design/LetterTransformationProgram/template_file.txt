@@ -1,0 +1,11 @@
+{date}
+Dear {name},
+BREAKING: {newsHeadline}
+This is an ALL HANDS ON DECK SITUATION:
+If we don't fight back, the {otherParty} will get their way.
+Donate to {thisParty} TODAY so we can finally put an end to the {otherParty}
+shenanigans!
+Give {amount}$? now
+Or, donate another amount
+Paid for by the {thisParty} PAC, not authorized by any candidate or
+candidate's committee.

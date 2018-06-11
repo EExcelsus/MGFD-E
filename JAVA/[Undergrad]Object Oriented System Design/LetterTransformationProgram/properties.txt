@@ -1,0 +1,6 @@
+name=Loyal Party Supporter
+newsHeadline=Rt. Hon. Lord North calls for OUTRAGEOUS INCREASE IN TAXES on TEA!
+thisParty=Sons Of Liberty
+otherParty=British
+date=May 8, 1773
+amount=1
